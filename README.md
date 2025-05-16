@@ -21,3 +21,5 @@ As correções cobrem tópicos diversos, incluindo mas não se limitando a:
 - **Boas práticas de codificação e organização de projetos**
 
 > ⚠️ Observação: Cada prova pode enfatizar o mesmo conteúdo, mas com diferentes enunciados.
+
+![Image](https://github.com/user-attachments/assets/dcf3ea0b-3c07-4970-b1a9-ec82799abbff)
