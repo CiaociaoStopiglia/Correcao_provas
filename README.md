@@ -1,25 +1,25 @@
-# 📘 Correção de Provas – SENAI | Curso de Desenvolvimento de Sistemas
+# 📘 Test Correction – SENAI | Systems Development Course
 
-Este repositório reúne a correção de cinco provas aplicadas ao longo do curso de **Desenvolvimento de Sistemas** do SENAI. O material reflete os principais conteúdos abordados durante a formação, oferecendo uma visão abrangente das competências desenvolvidas.
+This repository brings together the corrections of five tests applied throughout the **Systems Development** course at SENAI. The material reflects the main content covered during the training, offering a comprehensive view of the skills developed.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Fornecer um recurso de apoio para:
+To provide a support resource for:
 
-- Revisão de conteúdos trabalhados em sala de aula  
-- Preparação para futuras avaliações  
-- Consolidação de conceitos teóricos e práticos  
-- Autoavaliação do desempenho ao longo do curso  
+- Reviewing content covered in class
+- Preparing for future assessments
+- Consolidating theoretical and practical concepts
+- Self-assessment of performance throughout the course
 
-## 🧠 Abrangência dos Conteúdos
+## 🧠 Scope of Content
 
-As correções cobrem tópicos diversos, incluindo mas não se limitando a:
+The corrections cover a variety of topics, including but not limited to:
 
-- **Lógica de programação** e estruturas de controle    
-- **Desenvolvimento back-end**   
-- **Versionamento com Git e GitHub**  
-- **Boas práticas de codificação e organização de projetos**
+- **Programming logic** and control structures
+- **Back-end development**
+- **Versioning with Git and GitHub**
+- **Good coding practices and project organization**
 
-> ⚠️ Observação: Cada prova pode enfatizar o mesmo conteúdo, mas com diferentes enunciados.
+> ⚠️ Note: Each test may emphasize the same content, but with different statements.
 
 ![Image](https://github.com/user-attachments/assets/dcf3ea0b-3c07-4970-b1a9-ec82799abbff)
